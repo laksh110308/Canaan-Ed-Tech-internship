@@ -22,3 +22,14 @@ To clean and preprocess a raw sales dataset using Python for further analysis.
 
 ## Outcome
 A clean and structured dataset ready for data analysis and visualization.
+
+## Task 2: Exploratory Data Analysis (EDA)
+In this task, I performed an exploratory analysis of the cleaned sales data to uncover key trends and patterns.
+
+### Key Visualizations:
+- **Top 10 States by Orders**: Identified California as the leading market.
+- **Shipping Mode Distribution**: Visualized customer preferences, showing 'Standard Class' as the most used shipping method.
+
+### Tools Used:
+- Matplotlib
+- Seaborn
